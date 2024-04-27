@@ -42,7 +42,7 @@ Our project aims to [briefly describe the purpose or goal of your project]. We u
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
+1. Clone the repository: `git clone https://github.com/khanarbazz/EDA-ON-AIRBNB-DATASET.git`
 2. Navigate into the project directory: `cd project-name`
 3. Install the required dependencies:
 
