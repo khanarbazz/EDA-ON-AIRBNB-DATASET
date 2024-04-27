@@ -6,8 +6,7 @@ Welcome to our project! This repository contains all files related to EDA projec
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Setup(#Setup)
 - [License](#license)
 
 ## Introduction
@@ -19,19 +18,20 @@ Our project aims to communicate insights and identify the issues and provide pos
 1. Clone the repository: `git clone https://github.com/khanarbazz/EDA-ON-AIRBNB-DATASET.git`
 2. Navigate into the project directory: `cd EDA-ON-AIRBNB-DATASET`
 
+
+
 ## Setup
-```bash
-   
-   import pandas as pd
-   import matplotlib.pyplot as plt
-   import numpy as np
-   from datetime import datetime as dt
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from datetime import datetime as dt
+exit```
 
 
 
-## License
 
-Feel free to modify or expand upon this template as needed!
+
 
 
 
