@@ -1,30 +1,6 @@
-Description:
-● Airbnb is an online marketplace that connects people who want to rent out their homes with people looking for accommodations in specific locales.
-●I have performed Exploratory Data Analysis (EDA) on the dataset to communicate insights from data and answer the question about the bussiness growth and provide solutions for other challenges as well.
-●For conveying insights and for easy and clear understanding I have used multiple visualisation.
+## EDA ON AIRBNB DATASET
 
-Business Objective :
-●To create a world where anyone can belong anywhere.
-
-Python libraries imported:
-●Pandas
-●Numpy
-●Seaborn
-●Matplotlib
-
-Setup:
-
-import pandas as pd
-import seaborn as sns
-sns.set()
-import matplotlib.pyplot as plt
-import numpy as np
-import datetime
-from datetime import datetime as dt
-
-# Project Name
-
-Welcome to our project! This repository contains [describe what your project does or is about].
+Welcome to our project! This repository contains all files related to EDA project in Airbnb dataset.
 
 ## Table of Contents
 
@@ -36,22 +12,28 @@ Welcome to our project! This repository contains [describe what your project doe
 
 ## Introduction
 
-Our project aims to [briefly describe the purpose or goal of your project]. We utilize Python libraries such as Pandas, Seaborn, and Matplotlib for data analysis and visualization.
+Our project aims to communicate insights and identify the issues and provide possible solutions thus helping Airbnb to achieve their goals  i.e "To create a world where anyone can belong anywhere”. I utilize Python libraries such as Pandas,Numpy,Seaborn,and Matplotlib for data analysis and visualization.
 
 ## Installation
 
-To run this project locally, follow these steps:
-
 1. Clone the repository: `git clone https://github.com/khanarbazz/EDA-ON-AIRBNB-DATASET.git`
-2. Navigate into the project directory: `cd project-name`
-3. Install the required dependencies:
+2. Navigate into the project directory: `cd EDA-ON-AIRBNB-DATASET`
 
-   ```bash
-   pip install pandas seaborn matplotlib
-
+## Setup
+```bash
+   
    import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
-from datetime import datetime as dt
+   import matplotlib.pyplot as plt
+   import numpy as np
+   from datetime import datetime as dt
+
+
+
+## License
+
+Feel free to modify or expand upon this template as needed!
+
+
+
+
 
