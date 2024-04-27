@@ -6,7 +6,7 @@ Welcome to our project! This repository contains all files related to EDA projec
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Setup(#Setup)
+- [Setup(#setup)
 - [License](#license)
 
 ## Introduction
@@ -26,7 +26,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from datetime import datetime as dt
-exit```
+
 
 
 
