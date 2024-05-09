@@ -7,7 +7,7 @@ Welcome to our project! This repository contains all files related to EDA projec
 - [Introduction](#introduction)
 - [Installation](#installation)
 -  [Setup](#setup)
-- [License](#license)
+
 
 ## Introduction
 
