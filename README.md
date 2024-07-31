@@ -18,26 +18,26 @@ Duplicates: None
 
 ## Analysis Results
 
-### Room Preferences and Neighborhood Analysis:
+### 1) Room Preferences and Neighborhood Analysis:
 - Preferred room types: Entire home/apt > Private rooms > Shared rooms.
 - Identified privacy concerns and stunted growth in shared rooms.
 
-### Price Distribution
+### 2) Price Distribution
 - Most bookings fall within the price range of $0 to $2000.
 - Opportunities exist to add more rooms in this price range, especially private and entire homes.
 
-### Host Listings Distribution
+### 3) Host Listings Distribution
 - Manhattan has the highest number of listings, while Staten Island and the Bronx have the least.
 - Listings are concentrated in Manhattan's Financial District.
 
-### Average Booking Price
+### 4) Average Booking Price
 - The average booking price has declined from 2011 to 2019, with notable variations across neighborhoods.
 
-### Revenue and Growth Visualization
+### 5) Revenue and Growth Visualization
 - Revenue shows exponential growth in the last year.
 - Seasonal trends observed include growth in the spring and end-of-year months.
 
-### Correlation Analysis
+### 6) Correlation Analysis
 - **Positive Correlations:**
   - Availability, reviews, and minimum nights are positively correlated with price.
 - **Negative Correlations:**
